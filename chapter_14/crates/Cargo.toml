@@ -1,0 +1,11 @@
+[package]
+name = "crates"
+version = "0.1.0"
+edition = "2024"
+description = "A collection of Rust crates for various purposes"
+license = "MIT"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 1
