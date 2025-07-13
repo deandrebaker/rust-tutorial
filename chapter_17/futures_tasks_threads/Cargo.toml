@@ -1,0 +1,7 @@
+[package]
+name = "futures_tasks_threads"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+trpl = "0.2.0"
